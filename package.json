@@ -1,0 +1,28 @@
+{
+  "name": "progect-app",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksanaweb/app.git"
+  },
+  "author": "Oksana Manchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksanaweb/app/issues"
+  },
+  "homepage": "https://github.com/oksanaweb/app#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "concat": "^1.0.3",
+    "parcel": "^2.8.2",
+    "sass": "^1.57.1",
+    "server": "^1.0.38"
+  }
+}

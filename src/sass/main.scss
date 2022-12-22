@@ -1,0 +1,52 @@
+
+
+.temperature-name,
+.cloud-name,
+.wind-name,
+.humidity-name,
+.pressure-name
+ {font-size: 30px;
+  color: aliceblue;
+}
+
+.temperatire-icon {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.cloud-img {
+    font-size: 24px;
+    text-align: center;
+}
+
+.wind-icon,
+.humidity-icon,
+.pressure-icon
+{
+font-size: 30px;
+text-align: center;
+
+}
+
+.temperature-number,
+.cloud-number,
+.wind-number,
+.humidity-number,
+.pressure-number {
+text-align: center;
+font-size: 20px;
+margin-top: 10px;
+color: #ffff00;
+}
+
+.temperature,
+.cloud,
+.wind,
+.humidity,
+.pressure {
+padding: 16px 30px 15px 20px; 
+}
+
+ 
